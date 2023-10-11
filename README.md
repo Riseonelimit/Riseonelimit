@@ -12,6 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riseonelimit&label=Profile%20views&color=a600ff&style=flat" alt="riseonelimit" /> </p>
 
+[![An image of @riseonelimit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riseonelimit)](https://holopin.io/@riseonelimit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
