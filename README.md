@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Anand</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **My New Portfolio**
+- 🔭 I’m currently working on **Life Chronicle** project
 
-- 🌱 I’m currently learning **PHP,CPP & Jquery**
+- 🌱 I’m currently learning **Typescript , NextJS , GraphQL**
 
 - 📫 How to reach me **anandrise2048@gmail.com**
 
